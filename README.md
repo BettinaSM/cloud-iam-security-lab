@@ -32,6 +32,18 @@ This project simulates real-world IAM security scenarios, including:
 
 ---
 
+## 🧪 Real-World Security Simulation
+
+This project simulates real-world IAM security risks commonly found in cloud environments, including:
+
+- Overly permissive roles
+- Privilege escalation paths
+- Misconfigured policies
+
+Designed to reflect enterprise cloud security scenarios.
+
+---
+
 ## 📦 Project Structure
 
 ```text
